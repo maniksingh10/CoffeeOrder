@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+    <style name="MyButton" parent="Theme.AppCompat.Light">
+    <item name="colorControlHighlight">#ffffff</item>
+    <item name="colorButtonNormal">#f1ff4081</item>
+    <item name="colorPrimary">@color/A</item>
+    <item name="colorAccent">@color/DeepPink</item>
+    <item name="android:windowBackground">@color/A</item>
+    <item name="android:statusBarColor">@color/A</item>
+    <item name="android:colorBackground">@android:color/white</item>
+    </style >
+
+</resources>
